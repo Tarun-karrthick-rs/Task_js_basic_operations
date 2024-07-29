@@ -24,3 +24,5 @@ console.log(++num1);
 //post and pre decrement 
 console.log(num1--);
 console.log(--num1);
+
+console.log(~num1)
